@@ -18,6 +18,6 @@ This project has been a remarkable opportunity to engage with and analyze Stamp 
 ● ChatGPT: Applied for its capabilities in creative writing and research synthesis, enhancing the depth and context of the project, thereby providing a well-rounded narrative.
 
 
-# Presentation Link : https://youtu.be/UxJySqhJ0Bc
+# Presentation Link - https://youtu.be/UxJySqhJ0Bc
 
-# LinkedIn : 
+# LinkedIn - https://www.linkedin.com/posts/snklpanand_dataanalytics-sql-powerbi-activity-7113871671068889088-YHTW?utm_source=share&utm_medium=member_desktop
